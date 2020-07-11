@@ -1,8 +1,7 @@
 # Android Bluetooth Chat Sample App
 
-This is a sample Android project which two users can chat via Bluetooth technology.<br/>
-No internet is required, you can chat anywhere and anytime with your close friend and family.</br>
-Bluetooth chat application is also a supporting tool for helping social distance in COVID-19 pandamic time.
+Bluetooth chat application is a sample Android project which can chat with other user in anywhere, anytime without internet required.</br>
+This is also a supporting tool for helping social distancing from COVID-19 pandamic.
  
 ## GIF Images
 
@@ -12,7 +11,7 @@ Bluetooth chat application is also a supporting tool for helping social distance
       <td><img src="gifs/sample_gif.gif" width="575" /></td>
     </tr>
     <tr>
-      <td>Chat via Bluetooth communication</td>
+      <td>Android Bluetooth Chat App - No internet required 👍</td>
     </tr>
    </table>
  </center>
