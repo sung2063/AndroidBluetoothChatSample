@@ -89,59 +89,59 @@ ClientConnectivity clientConnectivity = new ClientConnectivity(this, eventListen
 
 Here are the available library APIs which you can use to develop a Bluetooth chat system.
 
-<b>- ServerConnectivity</b>
+<b>ServerConnectivity</b>
 
 <center>
   <table>
-    <tr>
+    <tr style="background-color: #f6f8fa !important;">
       <th>Method</th>
       <th>Description</th>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>sendMessage(String message)</b></td>
       <td>Sends message to client.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>onDestroy()</b></td>
       <td>Close the chat room.</td>
     </tr>
    </table>
  </center>
  
-<b>- ClientConnectivity</b>
+<b>ClientConnectivity</b>
 
 <center>
   <table>
-    <tr>
+    <tr style="background-color: #f6f8fa !important;">
       <th>Method</th>
       <th>Description</th>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>sendMessage(String message)</b></td>
       <td>Sends message to server.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>onDestroy()</b></td>
       <td>Leave the chat room.</td>
     </tr>
    </table>
  </center>
  
-<b>- IncomingType</b>
+<b>IncomingType</b>
  
  <center>
   <table>
-    <tr>
+    <tr style="background-color: #f6f8fa !important;">
       <th>Field</th>
       <th>Value</th>
       <th>Description</th>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>NOTIFICATION</b></td>
       <td>0</td>
       <td>The message is alert or notification.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>GENERAL_MESSAGE</b></td>
       <td>1</td>
       <td>The message received from server or client.</td>
@@ -149,31 +149,31 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
    </table>
  </center>
  
-<b>- Notification</b>
+<b>Notification</b>
  
  <center>
   <table>
-    <tr>
+    <tr style="background-color: #f6f8fa !important;">
       <th>Field</th>
       <th>Value</th>
       <th>Description</th>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>NOTIFICATION_ROOM_ESTABLISH</b></td>
       <td>0</td>
       <td>The notification when room is established.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>NOTIFICATION_SELF_ENTER</b></td>
       <td>1</td>
       <td>The notification when client enters the room on client side.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>NOTIFICATION_ENTER</b></td>
       <td>2</td>
       <td>The notification when client enters the room on server side.</td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff !important;">
       <td><b>NOTIFICATION_LEAVE</b></td>
       <td>3</td>
       <td>The notification when client leave the room.</td>
@@ -186,43 +186,43 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  Entertain your customers and increase your revenue.
  The Bluetooth chat system can be used in anywhere and anytime with different purposes:
  <ul>
- <li><b>Airplane</b> - Chat with friends and families in the air; chat regarding the products.</li>
+ <li><b>Airplane</b> - Communicate with flight crew for products</li>
  <li><b>Restaurants</b> - Show your menus and transfer orders</li>
- <li><b>Businesses</b> - Introduce your products digitally</li>
+ <li><b>Businesses</b> - Introduce business products digitally</li>
  <li>and more.</li>
  </ul>
  
  <center>
   <table>
     <tr>
-      <td><b>Version</b></td>
+      <td style="background-color: #f6f8fa !important;"><b>Version</b></td>
       <td>Free (Open Source)</td>
       <td>Paid</td>
     </tr>
     <tr>
-      <td><b>Connection</b></td>
-      <td>1 to 1</td>
-      <td>1 to many (up to 7 devices)</td>
+      <td style="background-color: #f6f8fa !important;"><b>Connection</b></td>
+      <td style="background-color: white !important;">1 to 1</td>
+      <td style="background-color: white !important;">1 to many (up to 7 devices)</td>
     </tr>
     <tr>
-      <td><b>Support Language</b></td>
+      <td style="background-color: #f6f8fa !important;"><b>Support Language</b></td>
       <td>English Only</td>
       <td>Multi languages + emojis</td>
     </tr>
     <tr>
-      <td><b>Transfer Contents</b></td>
-      <td>Only texts</td>
-      <td>Text and multi-media files</td>
+      <td style="background-color: #f6f8fa !important;"><b>Transfer Contents</b></td>
+      <td style="background-color: white !important;">Only texts</td>
+      <td style="background-color: white !important;">Text and multi-media files</td>
     </tr>
     <tr>
-      <td><b>Design & Features</b></td>
+      <td style="background-color: #f6f8fa !important;"><b>Design & Features</b></td>
       <td>Simple</td>
       <td>Customizable</td>
     </tr>
     <tr>
-      <td><b>Data History</b></td>
-      <td>No</td>
-      <td>Downloadable data file</td>
+      <td style="background-color: #f6f8fa !important;"><b>Data History</b></td>
+      <td style="background-color: white !important;">No</td>
+      <td style="background-color: white !important;">Downloadable data file</td>
     </tr>
    </table>
  </center>
