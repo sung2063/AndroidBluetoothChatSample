@@ -94,11 +94,11 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
 <center>
   <table>
     <tr>
-      <th>Method</th>
-      <th>Description</th>
+      <th><b>Method</b></th>
+      <th><b>Description</b></th>
     </tr>
     <tr>
-      <td><b>sendMessage(String message)</b></td>
+      <td><b>sendMessage(message)</b></td>
       <td>Sends message to client.</td>
     </tr>
     <tr>
@@ -113,11 +113,11 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
 <center>
   <table>
     <tr>
-      <th>Method</th>
-      <th>Description</th>
+      <th><b>Method</b></th>
+      <th><b>Description</b></th>
     </tr>
     <tr>
-      <td><b>sendMessage(String message)</b></td>
+      <td><b>sendMessage(message)</b></td>
       <td>Sends message to server.</td>
     </tr>
     <tr>
@@ -132,9 +132,9 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  <center>
   <table>
     <tr>
-      <th>Field</th>
-      <th>Value</th>
-      <th>Description</th>
+      <th><b>Field</b></th>
+      <th><b>Value</b></th>
+      <th><b>Description</b></th>
     </tr>
     <tr>
       <td><b>NOTIFICATION</b></td>
@@ -154,9 +154,9 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  <center>
   <table>
     <tr>
-      <th>Field</th>
-      <th>Value</th>
-      <th>Description</th>
+     <th><b>Field</b></th>
+      <th><b>Value</b></th>
+      <th><b>Description</b></th>
     </tr>
     <tr>
       <td><b>NOTIFICATION_ROOM_ESTABLISH</b></td>
@@ -181,7 +181,7 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
    </table>
  </center>
  
- ## Paid Version
+ ## Premium Version
  
  Entertain your customers and increase your revenue.
  The Bluetooth chat system can be used in anywhere and anytime with different purposes:
@@ -195,9 +195,9 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  <center>
   <table>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Version</b></td>
-      <td>Free (Open Source)</td>
-      <td>Paid</td>
+     <th></th>
+     <th><b>GitHub Open Source</b></th>
+     <th><b>Premium</b></th>
     </tr>
     <tr>
       <td><b>Connection</b></td>
@@ -211,7 +211,7 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
     </tr>
     <tr>
       <td><b>Transfer Contents</b></td>
-      <td>Only text</td>
+      <td>Text only</td>
       <td>Text and multi-media files</td>
     </tr>
     <tr>
@@ -230,3 +230,7 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  Interested in Bluetooth communication solution? Message me for product consultation.
  
  Sponsor me on GitHub for contributing more innovating Bluetooth projects. ❤️
+ 
+ ## Contributor 🌟
+ 
+ Sung Hyun Back (@sung2063)
