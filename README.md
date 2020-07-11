@@ -21,7 +21,11 @@ This is also a supporting tool for helping social distancing from COVID-19 panda
 
 1) Clone the AndroidBluetoothChatSample repository to your local computer
 2) Open the project on Android Studio
-3) Run the program either on Android virtual device or your Android device
+3) Prepare two Android devices either phone(s) or tablet(s)
+4) Turn on the Bluetooth on both devices and pair them each other
+5) Run the app on both devices
+6) Create a room on one device and join the room with other device
+7) Enjoy chatting! 💬
 
 ## How to Use Bluetooth Chat Library
 
@@ -215,14 +219,14 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
       <td>Text and multi-media files</td>
     </tr>
     <tr>
-      <td><b>Design & Features</b></td>
-      <td>Simple</td>
-      <td>Customizable</td>
+      <td><b>Design</b></td>
+      <td>Simple design</td>
+      <td>Brandings and customizable</td>
     </tr>
     <tr>
-      <td><b>Data History</b></td>
-      <td>No</td>
-      <td>Downloadable data file</td>
+      <td><b>Conversation Record</b></td>
+      <td>No downloadable record</td>
+      <td>Supports downloadable record</td>
     </tr>
    </table>
  </center>
