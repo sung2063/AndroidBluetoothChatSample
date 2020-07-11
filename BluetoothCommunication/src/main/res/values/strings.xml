@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom String -->
+    <string name="bluetooth_off_error">Bluetooth is OFF.\nPlease turn on the bluetooth and try again.</string>
+    <string name="no_paired_device_error">There is no paired device.\nPair the device and try again.</string>
+    <string name="open_socket_error">Failed to open chat room.\nPlease try again.</string>
+    <string name="socket_not_exist_error">The chat room does not exist.\nPlease try again later.</string>
+    <string name="device_error">Connection lost.\nPlease try again later.</string>
+    <string name="server_closed_error">This room is closed.\nThank you for using!</string>
+    <string name="go_sponsor">Give Sponsor</string>
+    <string name="close">Close</string>
+
+    <string name="sponsor_message">Did you enjoy using this solution?\nPlease sponsor me on GitHub @sung2063. 💖</string>
+
+</resources>

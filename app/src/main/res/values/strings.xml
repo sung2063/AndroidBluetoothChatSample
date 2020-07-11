@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bluetooth Chat Sample</string>
+
+    <!-- Custom Strings -->
+    <string name="action_bar_name">Bluetooth Chat Room</string>
+    <string name="message_field_hint">Enter your message here...</string>
+    <string name="menu_server_title">Host A Chat Room</string>
+    <string name="menu_server_sub_title">Establish A Room And Chat With Other.</string>
+    <string name="menu_client_title">Join The Chat</string>
+    <string name="menu_client_sub_title">Join The Room And Chat With Other.</string>
+    <string name="author_message">GitHub @ sung2063</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit</string>
+
+    <!-- Notification Message -->
+    <string name="notification_room_establish">The room is created.</string>
+    <string name="notification_self_enter">You are now entered the room.</string>
+    <string name="notification_enter">entered the room.</string>
+    <string name="notification_leave">left the room.</string>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/cl_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:elevation="3dp">
+
+    <View
+        android:id="@+id/view_user_label"
+        android:layout_width="5dp"
+        android:layout_height="0dp"
+        android:background="@color/colorSilver"
+        app:layout_constraintBottom_toBottomOf="@id/rl_message_container"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/rl_message_container" />
+
+    <RelativeLayout
+        android:id="@+id/rl_message_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_conversation_incoming_box"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="15dp"
+        app:layout_constraintStart_toEndOf="@id/view_user_label"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:textColor="@color/colorText"
+            android:textSize="15sp"
+            tool:text="This is test message.\nPlease ignore it!" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_date_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:textColor="#777"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@id/rl_message_container"
+        app:layout_constraintStart_toEndOf="@id/rl_message_container"
+        tool:text="15:00" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
