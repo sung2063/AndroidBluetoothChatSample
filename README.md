@@ -1,9 +1,9 @@
 # Android Bluetooth Chat Sample App
 
 Bluetooth chat application is a sample Android project which can chat with other user in anywhere, anytime without internet required.</br>
-This is also a supporting tool for helping social distancing from COVID-19 pandamic.
+This is also a supporting tool for helping people social distancing from COVID-19 pandamic.
  
-## GIF Images
+## Sample GIF Image
 
 <center>
   <table>
@@ -53,8 +53,8 @@ implementation 'com.github.sung2063:AndroidBluetoothChatLibrary:1.02'
 
 Now you are ready to use BluetoothChat library and it has two different roles: 
 <ul>
-<li>Server - Creates the room and communicate with client user</li>
-<li>Client - Join the existing room and communicate with server user</li>
+ <li><b>Server</b> - Creates the room and communicate with client user</li>
+ <li><b>Client</b> - Joins the existing room and communicate with server user</li>
 </ul>
 
 Start with implementing each methods of EventListener interface on Activity.
