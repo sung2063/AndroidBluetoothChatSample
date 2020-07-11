@@ -93,15 +93,15 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
 
 <center>
   <table>
-    <tr style="background-color: #f6f8fa !important;">
+    <tr>
       <th>Method</th>
       <th>Description</th>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>sendMessage(String message)</b></td>
       <td>Sends message to client.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>onDestroy()</b></td>
       <td>Close the chat room.</td>
     </tr>
@@ -112,15 +112,15 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
 
 <center>
   <table>
-    <tr style="background-color: #f6f8fa !important;">
+    <tr>
       <th>Method</th>
       <th>Description</th>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>sendMessage(String message)</b></td>
       <td>Sends message to server.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>onDestroy()</b></td>
       <td>Leave the chat room.</td>
     </tr>
@@ -131,17 +131,17 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  <center>
   <table>
-    <tr style="background-color: #f6f8fa !important;">
+    <tr>
       <th>Field</th>
       <th>Value</th>
       <th>Description</th>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>NOTIFICATION</b></td>
       <td>0</td>
       <td>The message is alert or notification.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>GENERAL_MESSAGE</b></td>
       <td>1</td>
       <td>The message received from server or client.</td>
@@ -153,27 +153,27 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  <center>
   <table>
-    <tr style="background-color: #f6f8fa !important;">
+    <tr>
       <th>Field</th>
       <th>Value</th>
       <th>Description</th>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>NOTIFICATION_ROOM_ESTABLISH</b></td>
       <td>0</td>
       <td>The notification when room is established.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>NOTIFICATION_SELF_ENTER</b></td>
       <td>1</td>
       <td>The notification when client enters the room on client side.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>NOTIFICATION_ENTER</b></td>
       <td>2</td>
       <td>The notification when client enters the room on server side.</td>
     </tr>
-    <tr style="background-color: #fff !important;">
+    <tr>
       <td><b>NOTIFICATION_LEAVE</b></td>
       <td>3</td>
       <td>The notification when client leave the room.</td>
@@ -200,29 +200,29 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
       <td>Paid</td>
     </tr>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Connection</b></td>
-      <td style="background-color: white !important;">1 to 1</td>
-      <td style="background-color: white !important;">1 to many (up to 7 devices)</td>
+      <td><b>Connection</b></td>
+      <td>1 to 1</td>
+      <td>1 to many (up to 7 devices)</td>
     </tr>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Support Language</b></td>
+      <td><b>Support Language</b></td>
       <td>English Only</td>
       <td>Multi languages + emojis</td>
     </tr>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Transfer Contents</b></td>
-      <td style="background-color: white !important;">Only texts</td>
-      <td style="background-color: white !important;">Text and multi-media files</td>
+      <td><b>Transfer Contents</b></td>
+      <td>Only text</td>
+      <td>Text and multi-media files</td>
     </tr>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Design & Features</b></td>
+      <td><b>Design & Features</b></td>
       <td>Simple</td>
       <td>Customizable</td>
     </tr>
     <tr>
-      <td style="background-color: #f6f8fa !important;"><b>Data History</b></td>
-      <td style="background-color: white !important;">No</td>
-      <td style="background-color: white !important;">Downloadable data file</td>
+      <td><b>Data History</b></td>
+      <td>No</td>
+      <td>Downloadable data file</td>
     </tr>
    </table>
  </center>
