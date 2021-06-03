@@ -2,6 +2,15 @@
 
 Bluetooth chat application is a sample Android project which can chat with other user in anywhere, anytime without internet required.</br>
 This is also a supporting tool for helping people social distancing from COVID-19 pandamic.
+
+## 💖 Sponsor
+
+Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me contributing more features and maintaining the library. Support me for building more interesting projects! 💜
+
+<div align="center">
+<a href="https://github.com/sponsors/sung2063"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" style="float: left" /></a>
+<a href="https://www.paypal.com/donate?business=sunghyunb1991%40gmail.com&item_name=GitHub+Open+Source+Project+Sponsorship&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</div>
  
 ## Sample GIF Image
 
