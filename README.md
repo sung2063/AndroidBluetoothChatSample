@@ -12,7 +12,7 @@ Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me con
 <a href="https://www.paypal.com/donate?business=sunghyunb1991%40gmail.com&item_name=GitHub+Open+Source+Project+Sponsorship&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </div>
  
-## Sample GIF Image
+## 🎬 Sample GIF Image
 
 <center>
   <table>
@@ -26,7 +26,7 @@ Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me con
  </center>
 
 
-## Instruction
+## 🔢 Instruction
 
 1) Clone the AndroidBluetoothChatSample repository to your local computer
 2) Open the project on Android Studio
@@ -36,7 +36,7 @@ Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me con
 6) Create a room on one device and join the room with other device
 7) Enjoy chatting! 💬
 
-## How to Use Bluetooth Chat Library
+## 📖 How to Use Bluetooth Chat Library
 
 <b>1. Setup your Android project setting</b>
 
@@ -242,10 +242,6 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  Interested in Bluetooth communication solution? Message me for product consultation.
  
- ## Contributor 🌟
+ ## 🌟 Contributor
  
  Sung Hyun Back (@sung2063)
- 
- ## Sponsorship
- 
- Please sponsor me to my GitHub for contributing more innovative projects and libraries. ❤️
