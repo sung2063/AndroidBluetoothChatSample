@@ -194,54 +194,6 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
    </table>
  </center>
  
- ## Premium Version
- 
- Entertain your customers and increase your revenue.
- The Bluetooth chat system can be used in anywhere and anytime with different purposes:
- <ul>
- <li><b>Airplane</b> - Communicate with flight crew for products</li>
- <li><b>Restaurants</b> - Show your menus and transfer orders</li>
- <li><b>Businesses</b> - Introduce business products digitally</li>
- <li>and more.</li>
- </ul>
- 
- <center>
-  <table>
-    <tr>
-     <th></th>
-     <th><b>GitHub Open Source</b></th>
-     <th><b>Premium</b></th>
-    </tr>
-    <tr>
-      <td><b>Connection</b></td>
-      <td>1 to 1</td>
-      <td>1 to many (up to 7 devices)</td>
-    </tr>
-    <tr>
-      <td><b>Support Language</b></td>
-      <td>English Only</td>
-      <td>Multi languages + emojis</td>
-    </tr>
-    <tr>
-      <td><b>Transfer Contents</b></td>
-      <td>Text only</td>
-      <td>Text and multi-media files</td>
-    </tr>
-    <tr>
-      <td><b>Design</b></td>
-      <td>Simple design</td>
-      <td>Brandings and customizable</td>
-    </tr>
-    <tr>
-      <td><b>Conversation Record</b></td>
-      <td>No downloadable record</td>
-      <td>Supports downloadable record</td>
-    </tr>
-   </table>
- </center>
- 
- Interested in Bluetooth communication solution? Message me for product consultation.
- 
  ## 🌟 Contributor
  
  Sung Hyun Back (@sung2063)
