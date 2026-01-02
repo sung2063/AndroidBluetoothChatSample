@@ -1,7 +1,6 @@
 # Android Bluetooth Chat Sample App
 
-Bluetooth chat application is a sample Android project which can chat with other user in anywhere, anytime without internet required.</br>
-This is also a supporting tool for helping people social distancing from COVID-19 pandamic.
+Bluetooth Chat Application is a sample Android project that enables users to chat with each other anytime and anywhere without requiring an internet connection.<br>It was also designed as a supporting tool to help people maintain social distancing during the COVID‑19 pandemic.
 
 ## 💖 Sponsor
 
